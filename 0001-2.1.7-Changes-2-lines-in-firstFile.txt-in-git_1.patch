@@ -1,0 +1,24 @@
+From be06a732985f71b44b537cae6a484ebd1c2d9a35 Mon Sep 17 00:00:00 2001
+From: bkalzhan <47266416+bkalzhan@users.noreply.github.com>
+Date: Mon, 14 Nov 2022 10:17:21 +0600
+Subject: [PATCH] 2.1.7 Changes 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 488d4d9..517e927 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed 2 lines in firstFile.txt in git_1
++Changed 2 lines in firstFile.txt in git_1
+-- 
+2.33.0.windows.2
+
